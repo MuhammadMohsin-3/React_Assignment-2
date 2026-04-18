@@ -4,7 +4,7 @@ function App() {
   const developers = [
     {
       id: 1,
-      name: "Mohsin kahn",
+      name: "Mohsin khan",
       profession: "Frontend Developer",
       experience: 2,
       bio: "Building smooth and modern UI experiences with React.",
